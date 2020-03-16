@@ -1,0 +1,30 @@
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\bin\Debug\CSharpExcercise.exe.config
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\bin\Debug\CSharpExcercise.exe
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\bin\Debug\CSharpExcercise.pdb
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.exe
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.pdb
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\bin\Debug\AutoMapper.dll
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\bin\Debug\AutoMapper.xml
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.csproj.CoreCompileInputs.cache
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.csproj.CopyComplete
+D:\INTERVIEW\CODE EXERCISE\C#\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.csprojResolveAssemblyReference.cache
+D:\RD\CSharpExcercise\CSharpExcercise\bin\Debug\CSharpExcercise.exe.config
+D:\RD\CSharpExcercise\CSharpExcercise\bin\Debug\CSharpExcercise.exe
+D:\RD\CSharpExcercise\CSharpExcercise\bin\Debug\CSharpExcercise.pdb
+D:\RD\CSharpExcercise\CSharpExcercise\bin\Debug\AutoMapper.dll
+D:\RD\CSharpExcercise\CSharpExcercise\bin\Debug\AutoMapper.xml
+D:\RD\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.csprojAssemblyReference.cache
+D:\RD\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.csproj.CoreCompileInputs.cache
+D:\RD\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.csproj.CopyComplete
+D:\RD\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.exe
+D:\RD\CSharpExcercise\CSharpExcercise\obj\Debug\CSharpExcercise.pdb
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\bin\Debug\CSharpExcercise.exe.config
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\bin\Debug\CSharpExcercise.exe
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\bin\Debug\CSharpExcercise.pdb
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\bin\Debug\AutoMapper.dll
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\bin\Debug\AutoMapper.xml
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\obj\Debug\CSharpExcercise.csprojAssemblyReference.cache
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\obj\Debug\CSharpExcercise.csproj.CoreCompileInputs.cache
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\obj\Debug\CSharpExcercise.csproj.CopyComplete
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\obj\Debug\CSharpExcercise.exe
+D:\RD\GITHUBCSHARPEXAMPLE\CSharpExcercise\obj\Debug\CSharpExcercise.pdb
