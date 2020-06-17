@@ -12,6 +12,7 @@ namespace CSharpExcercise
        public  static void MainSt(string[] args)
         {
 
+           //developed by vijith
             //  Program.Part36Exe();
             //ConsDesc consDesc = new ConsDesc(50,30);
 
