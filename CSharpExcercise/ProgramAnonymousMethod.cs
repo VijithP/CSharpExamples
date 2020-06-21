@@ -12,6 +12,7 @@ namespace CSharpExcercise
 
         public static void MainAnonymous(string [] args)
         {
+             //developed by vijith
             //normal way to invoke delegate.
             DelegateAddFn DelegateAddFnObj = AdditionOfNumber;
              Console.WriteLine( "Method 1 sum of two number {0}", Convert.ToString(DelegateAddFnObj.Invoke(10, 20)));
