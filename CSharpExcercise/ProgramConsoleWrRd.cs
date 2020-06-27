@@ -10,6 +10,7 @@ namespace CSharpExcercise
     {
         public static void MainWrRd(string[] args)
         {
+            //developed by vijith
             Console.WriteLine(Console.ReadKey());// result: enterkey+keyinfo
 
             Console.WriteLine(Console.ReadLine()); //result : word , word display.
