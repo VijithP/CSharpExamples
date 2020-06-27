@@ -12,6 +12,8 @@ namespace CSharpExcercise
         public static void MainBinarySerch(string[] args)
 
         {
+            
+            //developed by vijith
             Console.WriteLine("Hai");
 
             //int[] num = new int[5] { 90, 50, 80, 10, 30 };
