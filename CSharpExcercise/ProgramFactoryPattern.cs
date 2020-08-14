@@ -11,6 +11,7 @@ namespace CSharpExcercise
 
         public static void MainFact(string[] args)
         {
+            //developed by vijith
             var obj=  Factory.EmpSalary(1);
             obj.Salary();
 
